@@ -8,4 +8,5 @@ const base = process.env.GITHUB_ACTIONS === 'true' && repositoryName
   ? `/${repositoryName}/`
   : '/'
 
-export default defineConfig({ plugins: [react()], base })
+export default defineConfig({ plugins: [react()], base:'Daily-Tracker',
+ })
