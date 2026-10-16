@@ -1,3 +1,4 @@
+
 # Daily Tracker — Complete Project
 
 Responsive React + Vite habit tracker with a dark emerald dashboard, Supabase email/password authentication, per-user habit storage, daily completion logs, analytics, streaks, and CSV export. Designed for desktop, tablet, and mobile.
@@ -52,3 +53,5 @@ GitHub Pages hosting and Supabase's free tier can be used without paying while w
 - If the site deploys but login fails, check the GitHub Actions secrets and Supabase redirect URLs.
 - After changing repository secrets, trigger a new deployment by pushing a commit or using **Actions → Run workflow**.
 - If you change the repository name, the Vite configuration calculates the Pages base path automatically during GitHub Actions builds.
+# Daily-Tracker
+A react mini project for daily track for task
